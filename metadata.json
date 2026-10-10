@@ -1,0 +1,6 @@
+{
+  "name": "FundIntel",
+  "description": "Mutual fund analysis, portfolio stock overlap, multi-fund PDF client reports, and wealth calculators",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
